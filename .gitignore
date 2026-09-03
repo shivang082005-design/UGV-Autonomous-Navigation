@@ -1,0 +1,6 @@
+.UGV/
+__pycache__/
+*.pyc
+.DS_Store
+1-DATA/*.mp4
+yolo11n.pt
